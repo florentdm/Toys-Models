@@ -3,7 +3,7 @@ Projet BI pour une Société de ventes de modèles réduits
 
 Différentes étapes du projet : 
 
-1 - Comprendre les besoins et attentes de notre client 
+1 - Comprendre les besoins et attentes de notre client
 2 - recueillir les différentes bases de données (connexion en local ou au serveur)
 3 - Schéma de principe de la base de donnée complète 
 4 - Analyse, nettoyage des données pertinentes pour notre projet 
