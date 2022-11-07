@@ -32,4 +32,4 @@ Vous trouverez :
    
          *  Toutes les requêtes SQL pour mener à bien ce projet    
          *  Notre présentation générale (*"REVIEW PROJECT FINAL""*)    
-         *  Visualisation de notre Dataviz (*"toyscie_db.pdf"*)   
+         *  Visualisation de notre Dataviz via Power BI (*"toyscie_db.pdf"*)   
