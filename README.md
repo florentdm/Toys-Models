@@ -1,4 +1,4 @@
-# Toys-Models :
+# Toys & Models :
 Projet BI pour une Société de ventes de modèles réduits
 
 Différentes étapes du projet : 
