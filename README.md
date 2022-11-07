@@ -26,4 +26,10 @@ Différentes étapes du projet :
           *  Les deux meilleurs vendeurs / mois   
 
 
-Pour ce projet, déploiement de la méthode AGILE pour une optimisation de notre temps.
+Pour ce projet, déploiement de la méthode AGILE pour une optimisation de notre temps.   
+
+Vous trouverez :   
+   
+         *  Toutes les requêtes SQL pour mener à bien ce projet    
+         *  Notre présentation générale (*"REVIEW PROJECT FINAL""*)    
+         *  Visualisation de notre Dataviz (*"toyscie_db.pdf"*)   
