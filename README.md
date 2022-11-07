@@ -18,4 +18,5 @@ Différentes étapes du projet :
           - Le stock des 5 meilleurs ventes 
           - Les deux meilleurs vendeurs / mois 
 
+
 Pour ce projet, déploiement de la méthode AGILE pour une optimisation de notre temps.
