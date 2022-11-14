@@ -7,18 +7,18 @@ Différentes étapes du projet :
 
 3. Recueillir les différentes bases de données (connexion en local ou au serveur).  
 
-5. Schéma de principe de la base de donnée complète.  
+4. Schéma de principe de la base de donnée complète.  
 
 
-7. Analyse, nettoyage des données pertinentes pour notre projet.   
+5. Analyse, nettoyage des données pertinentes pour notre projet.   
 
-9. Outils nécessaires pour ce projet :   
+6. Outils nécessaires pour ce projet :   
           *  MySQL Workbench    
           *  Power BI et/ou Tableau Software  
           *  MIRO    
 
 
-10. Création et ajustement de différentes visualisations demandés par notre client :   
+7. Création et ajustement de différentes visualisations demandés par notre client :   
           *  Nombre de produits vendus / Catégories / Mois et en comparaison à N-1   
           *  Le Chiffre d'Affaires des commandes des deux derniers mois / pays   
           *  Les Impayés des commandes en cours   
